@@ -63,12 +63,25 @@ endmodule
 **RTL**
 
 Boolean function minimization f1
-![Screenshot 2024-11-11 230920](https://github.com/user-attachments/assets/b8428776-9e55-4c33-9cf9-9fffa09c0df6)
+
+![WhatsApp Image 2024-12-10 at 20 48 09_63d2ef5a](https://github.com/user-attachments/assets/fcd0e1f9-b197-4436-8282-352acff21e5a)
+
 
 Bollean function minimization f2
 
+![WhatsApp Image 2024-12-10 at 20 48 16_de2ef258](https://github.com/user-attachments/assets/1cdb0fba-53ec-498b-9b1e-6eacd7d4802a)
+
 
 **Timing Diagram**
+
+Boolean function minimization f1
+
+![WhatsApp Image 2024-12-10 at 20 40 29_84a69ba6](https://github.com/user-attachments/assets/41904ea2-1b71-457f-afe7-74efa689da51)
+
+
+Boolen function minimization f2
+
+![WhatsApp Image 2024-12-10 at 20 48 20_26d6e794](https://github.com/user-attachments/assets/4c9e2ce8-0fd5-4360-acd1-100d6cad3ef7)
 
 **Result:**
 
