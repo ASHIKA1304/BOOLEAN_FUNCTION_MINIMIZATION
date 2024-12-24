@@ -18,9 +18,25 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Boolean Algebra is a branch of algebra that deals with boolean values-true and false.It is fundamental to digital logic design and computer science,providing a mathamatical framework for describing logical operation and expressions.
 
-**Logic Diagram**
-![image](https://github.com/user-attachments/assets/a719d34c-9d03-4c54-a46e-9750f06be6b3)
+**Truth table**
 
+1.F1
+
+![image](https://github.com/user-attachments/assets/2566cd5d-e645-4df4-bd3e-6222a20a397f)
+
+2.F2
+
+![image](https://github.com/user-attachments/assets/5f6816a1-680a-44bf-bcdd-82807c1386eb)
+
+**Boolean Function Minimization**
+
+1.F1
+
+![WhatsApp Image 2024-12-21 at 03 26 32_16197669](https://github.com/user-attachments/assets/ad9ecd38-0cb9-488a-b529-c4289bc9a09f)
+
+2.F2
+
+![WhatsApp Image 2024-12-21 at 03 26 45_2b131323](https://github.com/user-attachments/assets/af8088e0-0789-4ff4-9e0d-06bd2fec0789)
 
 
 **Procedure**
@@ -38,10 +54,8 @@ Boolean Algebra is a branch of algebra that deals with boolean values-true and f
 
 **Program:**
 
- Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+F1
 
-Developed by:ASHIKA TR
-RegisterNumber:24900481
 ```
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
@@ -49,6 +63,8 @@ output f1;
 assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
 endmodule
 ```
+
+F2
 
 ```
 module funct2(w,x,y,z,f2);
@@ -58,28 +74,30 @@ assign f2=((~y & z)|(w & y)|(x &y));
 endmodule
 ```
 
-**Output:**
+Developed by:ASHIKA TR
+RegisterNumber:24900481
+
 
 **RTL**
 
-Boolean function minimization f1
+1.F1
 
 ![WhatsApp Image 2024-12-10 at 20 48 09_63d2ef5a](https://github.com/user-attachments/assets/fcd0e1f9-b197-4436-8282-352acff21e5a)
 
 
-Bollean function minimization f2
+2.F2
 
 ![WhatsApp Image 2024-12-10 at 20 48 16_de2ef258](https://github.com/user-attachments/assets/1cdb0fba-53ec-498b-9b1e-6eacd7d4802a)
 
 
 **Timing Diagram**
 
-Boolean function minimization f1
+1.F1
 
 ![WhatsApp Image 2024-12-10 at 20 40 29_84a69ba6](https://github.com/user-attachments/assets/41904ea2-1b71-457f-afe7-74efa689da51)
 
 
-Boolen function minimization f2
+2. F2
 
 ![WhatsApp Image 2024-12-10 at 20 48 20_26d6e794](https://github.com/user-attachments/assets/4c9e2ce8-0fd5-4360-acd1-100d6cad3ef7)
 
