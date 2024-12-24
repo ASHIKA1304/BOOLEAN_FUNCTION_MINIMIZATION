@@ -22,7 +22,9 @@ Boolean Algebra is a branch of algebra that deals with boolean values-true and f
 
 1.F1
 
-![image](https://github.com/user-attachments/assets/2566cd5d-e645-4df4-bd3e-6222a20a397f)
+![Screenshot 2024-12-24 123731](https://github.com/user-attachments/assets/89012c12-c6bf-479d-ac24-e7f9be52f5aa)
+
+
 
 2.F2
 
@@ -94,7 +96,8 @@ RegisterNumber:24900481
 
 1.F1
 
-![WhatsApp Image 2024-12-10 at 20 40 29_84a69ba6](https://github.com/user-attachments/assets/41904ea2-1b71-457f-afe7-74efa689da51)
+![WhatsApp Image 2024-12-24 at 12 44 47_6fc5deeb](https://github.com/user-attachments/assets/71b1076d-f96d-43d7-8493-1528c6fe3906)
+
 
 
 2. F2
