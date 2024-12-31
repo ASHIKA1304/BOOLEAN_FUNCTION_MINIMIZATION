@@ -38,8 +38,7 @@ Boolean Algebra is a branch of algebra that deals with boolean values-true and f
 
 2.F2
 
-![WhatsApp Image 2024-12-31 at 09 12 53_8da36df9](https://github.com/user-attachments/assets/0ff37bf2-69c5-4cd1-bdaf-6f9519e9ee22)
-
+![WhatsApp Image 2024-12-21 at 03 26 53_e454fce8](https://github.com/user-attachments/assets/d352442c-2c59-4ae2-8689-a659eab56cb1)
 
 
 **Procedure**
@@ -103,7 +102,8 @@ RegisterNumber:24900481
 
 2. F2
 
-![WhatsApp Image 2024-12-10 at 20 48 20_26d6e794](https://github.com/user-attachments/assets/4c9e2ce8-0fd5-4360-acd1-100d6cad3ef7)
+![WhatsApp Image 2024-12-31 at 09 12 53_7a80457f](https://github.com/user-attachments/assets/c707e4f7-b747-48ca-aa0a-9e6d191606e0)
+
 
 **Result:**
 
